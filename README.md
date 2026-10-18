@@ -1,6 +1,6 @@
 <!-- ===== BANNER / COVER ===== -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:c026d3&height=220&section=header&text=Hi,%20I'm%20JENNIFER&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DAM%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=60&descSize=18" alt="Cover" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4c1d95,50:7c3aed,100:c026d3&height=220&section=header&text=Hi,%20I'm%20Jennifer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=DAM%20Student%20%7C%20Aspiring%20Software%20Developer&descAlignY=60&descSize=18" alt="Cover" />
 </div>
 
 <!-- ===== ANIMATED TEXT ===== -->
@@ -15,7 +15,7 @@
 <!-- ===== SOCIAL LINKS ===== -->
 <p align="center">
   <a href="https://github.com/jenniferoveru"><img src="https://img.shields.io/badge/GitHub-5b21b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/jennifer-ovejero-rujas-0016a7156/"><img src="https://img.shields.io/badge/LinkedIn-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:jenniferoveru@gmail.com"><img src="https://img.shields.io/badge/Email-a855f7?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
