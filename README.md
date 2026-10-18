@@ -53,14 +53,12 @@
 
 <!-- ===== STATS ===== -->
 <h2 align="center">📊 GitHub Stats</h2>
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jenniferoveru&show_icons=true&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&bg_color=1e1033&border_color=7c3aed" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferoveru&layout=compact&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&bg_color=1e1033&border_color=7c3aed" alt="Top languages" />
+  <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api?username=jenniferoveru&show_icons=true&hide=issues,contribs&line_height=24&hide_rank=true&card_width=450&border_radius=10&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&bg_color=1e1033&border_color=7c3aed" alt="GitHub stats" />
+  <img align="top" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferoveru&layout=compact&langs_count=4&card_width=450&border_radius=10&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&bg_color=1e1033&border_color=7c3aed" alt="Most used languages" />
 </p>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jenniferoveru&background=1e1033&border=7c3aed&ring=a855f7&fire=e879f9&currStreakNum=e9d5ff&sideNums=e9d5ff&currStreakLabel=c084fc&sideLabels=c084fc&dates=a78bfa" alt="Streak" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=jenniferoveru&border_radius=10&background=1e1033&border=7c3aed&ring=a855f7&fire=e879f9&currStreakNum=e9d5ff&sideNums=e9d5ff&currStreakLabel=c084fc&sideLabels=c084fc&dates=a78bfa" alt="Streak" />
 </p>
 
 <!-- ===== FOOTER ===== -->
