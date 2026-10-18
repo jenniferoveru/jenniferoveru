@@ -35,34 +35,32 @@
   <li>🔭 Currently building <b>my first projects and portfolio</b></li>
   <li>🌱 Learning <b>Java, Kotlin, SQL and mobile development</b></li>
   <li>🤝 Open to <b>internships and junior opportunities</b></li>
-  <li>⚡ Fun fact: <b>I love coffee ☕</b></li>
+  <li>⚡ Fun fact: My favorite color is purple, and yes, it's the theme of this profile 💜 <b></b></li>
 </ul>
 
 <!-- ===== TECH STACK ===== -->
-<h2 align="center">🛠️ Tech Stack</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-7c3aed?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Kotlin-7c3aed?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
-  <img src="https://img.shields.io/badge/Android-7c3aed?style=for-the-badge&logo=android&logoColor=white" alt="Android">
-  <img src="https://img.shields.io/badge/MySQL-7c3aed?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/HTML5-7c3aed?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-7c3aed?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+<h2 align="center">🛠️ Tech Stack</h2> 
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Java-7c3aed?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> 
+  <img src="https://img.shields.io/badge/Kotlin-7c3aed?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"> 
+  <img src="https://img.shields.io/badge/Python-7c3aed?style=for-the-badge&logo=python&logoColor=white" alt="Python"> 
+  <img src="https://img.shields.io/badge/JavaFX-7c3aed?style=for-the-badge&logo=openjdk&logoColor=white" alt="JavaFX"> 
+  <img src="https://img.shields.io/badge/Android-7c3aed?style=for-the-badge&logo=android&logoColor=white" alt="Android"> 
+  <img src="https://img.shields.io/badge/MySQL-7c3aed?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> 
+  <img src="https://img.shields.io/badge/HTML5-7c3aed?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> 
+  <img src="https://img.shields.io/badge/CSS3-7c3aed?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> 
   <img src="https://img.shields.io/badge/JavaScript-7c3aed?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Git-7c3aed?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/WebStorm-7c3aed?style=for-the-badge&logo=webstorm&logoColor=white" alt="WebStorm">
-</p>
 
 <!-- ===== STATS ===== -->
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&bg_color=1e1033&border_color=7c3aed" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&bg_color=1e1033&border_color=7c3aed" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jenniferoveru&show_icons=true&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&bg_color=1e1033&border_color=7c3aed" alt="Stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenniferoveru&layout=compact&title_color=c084fc&icon_color=a855f7&text_color=e9d5ff&bg_color=1e1033&border_color=7c3aed" alt="Top languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&background=1e1033&border=7c3aed&ring=a855f7&fire=e879f9&currStreakNum=e9d5ff&sideNums=e9d5ff&currStreakLabel=c084fc&sideLabels=c084fc&dates=a78bfa" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=jenniferoveru&background=1e1033&border=7c3aed&ring=a855f7&fire=e879f9&currStreakNum=e9d5ff&sideNums=e9d5ff&currStreakLabel=c084fc&sideLabels=c084fc&dates=a78bfa" alt="Streak" />
 </p>
 
 <!-- ===== FOOTER ===== -->
